@@ -34,4 +34,5 @@ end
 group :test do
   gem 'rspec-json_expectations'
   gem 'shoulda-matchers', '~> 4.0'
+  gem 'byebug'
 end
